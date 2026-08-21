@@ -1,6 +1,6 @@
 # Lern-Periode 1
 
-- Name: Exemplibus Exemplio
+- Name: Valbes Krasniqi
 - Zeitraum: 21.08.2026 bis 20.09.2026
 
 ## Grob-Planung
