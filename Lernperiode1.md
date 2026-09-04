@@ -7,21 +7,18 @@
 Module weiterarbeiten 
 
 ### Projekte / neue Technologien
-> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 Ich möchte lernen wie ich mühelos und ohne Assistenz programmieren kann und die Codes lernen 
 
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Alle meine Aufträge machen und weiter arbeiten
 
 ## Tagesplanungen
 
 
 ### Planung 21.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [x] ILA Tag 2 anfangen
-- [] Tagesziel shcaffen
+- [x] Tagesziel schaffen
 - [x] ILA Tag 1 fertig
 
 (Heute habe ich... (50-100 Wörter))
@@ -29,15 +26,28 @@ Heute habe ich an den ILA Folien gearbeitet und gelesen und dabei habe ich auch 
 Heute war nicht ein Tag wo ich sehr viel Energie hatte also konnte ich nicht 100% Gas geben. Das nächste mal wird sicher besser sein.
 
 
-### Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+04.09.26
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+## Grob-Planung
+Fertig machen
+
+### Veränderungen
+Schneller arbeiten
+
+### Projekte / neue Technologien
+Nichts neues 
+### Generelle Ziele
+Alle Aufträge fertig machen
+## Tagesplanungen
+
+### Planung 11.09.26
+
+
+- [ ] Alle Ziele fertig machen
+- [ ] Modul 431 Ziele machen
+- [ ] Keine ausstehenden Aufträge haben
 
 (Heute habe ich... (50-100 Wörter))
+Heute konnte ich an meinen Missionen weiterarbeiten, und ich habe ausserdem repetiert und alles nochmal ein wenig anschauen und durchlesen. Ich denke es war wichtig dass ich heute noch üben konnte für die OBA die wir nächste Woche haben.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
