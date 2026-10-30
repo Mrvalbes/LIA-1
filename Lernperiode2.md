@@ -76,19 +76,6 @@ Ich habe in 431 weitergearbietet
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
 
-## Lernperiode Reflexion
-<!--
-Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
-Mögliche Themen: Wie gut passt Ihr Endresultat zu dem, was Sie sich vorgenommen
-hatten? Unterm Strich, was ist Ihr grösstes Lernresultat? Was nehmen Sie für die
-Zukunft mit aus dieser Lernperiode?
-Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
--->
-
-...Ihr Text...
-
-
-
 30.10.2026
 ## Grob-Planung
 
