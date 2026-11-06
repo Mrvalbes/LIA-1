@@ -124,8 +124,18 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [x] Ein bisschen Python üben
-- [x] Replace the farmer üben
+- [x] 162 Aufgaben 
+- [x] Projekt weitermachen
+   
+  
+### Noten
+<!--
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
+in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+-->
+
+5.4
+
 
 #### Tagesreflexion
 <!--
@@ -135,8 +145,8 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Also ich habe Replace the farmer gespielt und dabei konnte ich ein bisschen Fortschritt machen.
-Da wir gerade zwei Module fertig abgeschlossen haben konnte ich heute nicht unbedingt extrem vieles machen.
+Ich konnte beim Modul 162 weitermachen und alle nötigen Aufgaben fertig machen so weit wie ich musste.
+Danach habe ich mit meinen Partnern an unserem Unity Spiel weitergemacht und haben ein wenig Fortschritt gemacht.
 
 
 
