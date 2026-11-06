@@ -113,3 +113,32 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 Also ich habe Replace the farmer gespielt und dabei konnte ich ein bisschen Fortschritt machen.
 Da wir gerade zwei Module fertig abgeschlossen haben konnte ich heute nicht unbedingt extrem vieles machen.
 
+### Planung 06.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [x] Ein bisschen Python üben
+- [x] Replace the farmer üben
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Also ich habe Replace the farmer gespielt und dabei konnte ich ein bisschen Fortschritt machen.
+Da wir gerade zwei Module fertig abgeschlossen haben konnte ich heute nicht unbedingt extrem vieles machen.
+
+
+
+
+
