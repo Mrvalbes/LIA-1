@@ -192,8 +192,8 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Modul 162 Aufgabe 1731
-- [ ] Modul 162 Aufgabe 1734
+- [X] Modul 162 Aufgabe 1731
+- [X] Modul 162 Aufgabe 1734
 - [ ] Modul 162 Aufgabe 1735
 - [ ] Modul 162 Aufgabe 1732
   
@@ -213,7 +213,7 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
-
+Ich konnte zwei Aufgaben lösen aber heute war ich sehr erschöpft und konnte mich nicht so konzentrieren wie ich es sollte. Ich war schnell abgelenkt und hatte keine Energie und Motivation um konstant zu arbeiten. Ich werde nächstes mal versuchen konzentrierter zu sein und fleissiger und effizienter zu arbeiten.
 
 
 
