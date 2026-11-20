@@ -181,6 +181,41 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 Ich konnte mich heute ganz gut konzentrieren da ich und meine Partner uns mühe gegeben haben und wirklich voran kommen wollten. Dabei konnten wir schon code schreiben und auch schon Animation anfangen zu programmieren und wir haben uns auch viele Videos angeschaut. Ich habe auch alle Aufträge gemacht die ich mir heute vorgenommen habe und konnte sie vollständig erledigen. 
 
+### Planung 20.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] Modul 162 Aufgabe 1731
+- [ ] Modul 162 Aufgabe 1734
+- [ ] Modul 162 Aufgabe 1735
+- [ ] Modul 162 Aufgabe 1732
+  
+### Noten
+<!--
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
+in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+-->
+
+5.4
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+
+
 
 
 
